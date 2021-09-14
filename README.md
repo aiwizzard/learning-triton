@@ -1,2 +1,8 @@
 # learning-triton
-Learning Triton by OpenAI
+This shows my progress of learning **Triton**, a gpu programming language.
+
+# Installation
+* Install latest stable version of triton:
+    ```
+    pip install triton
+    ```
